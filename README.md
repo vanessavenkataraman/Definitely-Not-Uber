@@ -1,4 +1,4 @@
-# README
+# Definitely Not Uber Project
 ## Project Overview
 ### This repository showcases my work on a comprehensive ride-hailing service project, which I undertook during the CS-120: Web Programming & Engineering course at Tufts University as part of my Master's Program.
 
