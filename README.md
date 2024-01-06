@@ -19,5 +19,3 @@
 #### readable_definitelynotuber.js: Javascript file associated with the main webpage
 #### readable_styles.css: Main CSS file for styling the project
 #### styles.css: Main CSS file for styling the project, compressed
-
-#### Feel free to explore the codebase and delve into the evolution of this ride-hailing service project!
