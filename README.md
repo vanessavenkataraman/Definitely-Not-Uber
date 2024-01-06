@@ -11,4 +11,13 @@
 ### Part 3: Server-Side Implementation
 #### The third and final phase revolved around rebuilding the server-side infrastructure to handle user ride requests. Using a provided API (https://jordan-marsh.herokuapp.com/rides), I facilitated ride requests in the server-side application. The utilization of Heroku was pivotal in successfully reconstructing the server-side, ensuring the seamless functioning of the map in response to user interactions.
 
+### Files Description
+#### car.png: Image file representing a car, which is used as a marker on the map.
+#### definitelynotuber.js: JavaScript file containing logic and functionalities for the ride-hailing service.
+#### index.html: HTML file serving as the main webpage for the project.
+#### index_app.js: JavaScript file associated with the main webpage, compressed
+#### readable_definitelynotuber.js: Javascript file associated with the main webpage
+#### readable_styles.css: Main CSS file for styling the project
+#### styles.css: Main CSS file for styling the project, compressed
+
 #### Feel free to explore the codebase and delve into the evolution of this ride-hailing service project!
