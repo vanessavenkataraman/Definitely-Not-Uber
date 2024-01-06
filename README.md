@@ -8,4 +8,3 @@
 
 ### The purpose of lab 12 was to continue creating a ride-hailing service. Lab 12 is the third part of the project. In lab 12, the goal was to recreate the server-side that will respond to a user's request for a ride. In part 2, I used a given API to request a ride: https://jordan-marsh.herokuapp.com/rides. In this lab, the server-side must be recreated in order to make the map work again. I utilized Heroku to build the server-side application.
 
-#### I spent a total of approximately 25 hours on this project. I utilized ChatGPT, StackOverflow, and class resources to complete this project.
